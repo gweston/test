@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "pjz <- 1\npjz\n\nfirstval <- c(\"hello\")\nfirstval\n",
+    "created" : 1497585894902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3843226957",
+    "id" : "B7DED763",
+    "lastKnownWriteTime" : 1497586011,
+    "last_content_update" : 1497586011988,
+    "path" : "C:/Users/Gary/Desktop/ProjectZ/ProjectZ/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
